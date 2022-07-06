@@ -39,7 +39,7 @@ veggy <- cabbages
 plot(VitC~Cult,data=veggy)
 ```
 
-The Vitamin C content in the cabbages cultivated using the c39 method gives off lower levels of vitamin  C than with the c52 method.   
+The Vitamin C content in the cabbages cultivated using the c39 method gives off lower levels of vitamin  C than with the c52 method. The average levels of vitamin C  using the c52 method is significantly higher than the average of the vitamin C using the c39 method.   
 
 ### Numerical Descriptive Results
 
