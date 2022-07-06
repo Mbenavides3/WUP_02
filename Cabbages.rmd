@@ -49,7 +49,7 @@ The Vitamin C content in the cabbages cultivated using the c39 method gives off 
 favstats(VitC~Cult,data=veggy)
 ```
 
-
+With the numerical results describing the Vitamin C between c39 and c52 cultivation methods, we see that the average Vitamin C from the c39 method is 51, while the average Vitamin C from the c52 method is 64.5. While it is not a big difference between the Vitamin C levels of the two methods, it is still a significant difference. 
 
 ## Inferential Results
 
