@@ -59,7 +59,7 @@ With the numerical results describing the Vitamin C between c39 and c52 cultivat
 t.test(VitC~Cult,data=veggy)
 ```
 
-
+According to the Inferential Results, the average or "mean" of units between the two methods becomes a lot more accurate. The mean units of the c39 method is 51.5, while the mean units of the c59 method is 64.4. 
 
 # Discussion and Conclusion
 
